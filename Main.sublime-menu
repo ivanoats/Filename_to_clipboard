@@ -1,0 +1,10 @@
+[
+{
+  "id": "edit",
+  "children":
+  [
+      {"id": "Copy File Path to Clipboard"},
+      { "command": "filename_to_clipboard" }
+  ]
+}
+]
